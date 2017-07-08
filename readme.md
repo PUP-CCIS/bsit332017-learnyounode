@@ -1,4 +1,4 @@
-# Javascripting Homework Repository
+# LearnYouNode Homework Repository
 
 This repository is for CCIS BSCS 3-3 '17-'18 only, and will only be specific for the LearnYouNode Lessons. Committing any other files that are not related to the course or the lessons will have certain repercussions to the whole section so be warned.
 
