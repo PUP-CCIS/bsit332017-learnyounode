@@ -43,7 +43,7 @@ After pushing your code, confirm that it's uploaded to GitHub by going to the [r
 ## Frequently Asked Questions (F.A.Q.)
 
 *Q: I'm having problems with cloning the repository. What should I do?*
-A: Make sure you pass the [prerequisites].(https://github.com/PUP-CCIS/bsit332017-learnyounode#prerequisites)
+A: Make sure you pass the [prerequisites](https://github.com/PUP-CCIS/bsit332017-learnyounode#prerequisites).
 
 *Q: I'm having problems with pushing my update to the repository. What should I do?*
 A: Make sure you have pulled any updates to the remote repository before pushing any update of your own. Also, check if you pass the [prerequisites](https://github.com/PUP-CCIS/bsit332017-learnyounode#prerequisites).
