@@ -18,7 +18,7 @@ If you're using GitHub for Windows (the desktop app), once you enter your creden
 
 If you're more of a terminal (command-prompt) person and you downloaded [GitBash](https://git-for-windows.github.io/), you can just clone the repository by typing the command `git clone git@github.com:PUP-CCIS/bscs422017-javascripting.git`. This would clone the repository to your current working directory (where your command-prompt is currently pointed before you execute the command) on a folder with the same name as the repository name.
 
-If you encounter an error while cloning, read the [prerequisites](https://github.com/PUP-CCIS/bsit332017-learnyounode#prerequisites) or head to the [F.A.Q.](https://github.com/PUP-CCIS/bsit332017-learnyounode#frequently-asked-questions)
+If you encounter an error while cloning, read the [prerequisites](https://github.com/PUP-CCIS/bsit332017-learnyounode#prerequisites) or head to the [F.A.Q.](https://github.com/PUP-CCIS/bsit332017-learnyounode#frequently-asked-questions-faq)
 
 ### Pull updates
 
