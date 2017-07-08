@@ -4,7 +4,7 @@ This repository is for CCIS BSCS 3-3 '17-'18 only, and will only be specific for
 
 ## How to Submit Your Homework
 
-### [Prerequisites](#prerequisites)
+### Prerequisites
 
 *1. Working GitHub connection thru SSH*
 This is the first and foremost that you should check, unless you're using GitHub (not just Git) for Windows. If you're a first-timer, head [here](https://help.github.com/articles/connecting-to-github-with-ssh/). 
@@ -18,7 +18,7 @@ If you're using GitHub for Windows (the desktop app), once you enter your creden
 
 If you're more of a terminal (command-prompt) person and you downloaded [GitBash](https://git-for-windows.github.io/), you can just clone the repository by typing the command `git clone git@github.com:PUP-CCIS/bscs422017-javascripting.git`. This would clone the repository to your current working directory (where your command-prompt is currently pointed before you execute the command) on a folder with the same name as the repository name.
 
-If you encounter an error while cloning, read the [prerequisites](https://github.com/PUP-CCIS/bsit332017-learnyounode#prerequisites) or head to the [F.A.Q.](https://github.com/PUP-CCIS/bsit332017-learnyounode#faq)
+If you encounter an error while cloning, read the [prerequisites](https://github.com/PUP-CCIS/bsit332017-learnyounode#prerequisites) or head to the [F.A.Q.](https://github.com/PUP-CCIS/bsit332017-learnyounode#frequently-asked-questions)
 
 ### Pull updates
 
@@ -40,7 +40,7 @@ After updating your code, you may now "Push" your work. Look for the Push button
 
 After pushing your code, confirm that it's uploaded to GitHub by going to the [repository](https://github.com/PUP-CCIS/bsit332017-learnyounode) and check if your subfolder is there.
 
-## [Frequently Asked Questions (F.A.Q.)](#faq)
+## Frequently Asked Questions (F.A.Q.)
 
 *Q: I'm having problems with cloning the repository. What should I do?*
 A: Make sure you pass the [prerequisites].(https://github.com/PUP-CCIS/bsit332017-learnyounode#prerequisites)
